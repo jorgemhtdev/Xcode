@@ -1,4 +1,4 @@
-**ATAJOS DE TECLADO**
+#ATAJOS DE TECLADO 
 
 ## Teclas que vamos a utilizar
 
